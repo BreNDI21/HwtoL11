@@ -1,0 +1,16 @@
+*{
+    background-color: aqua;
+    font-size: 20px;
+    font-family: Cambria;
+    color: cadetblue;
+}
+input{
+    background-color: azure;
+}
+form{
+    background-color: aliceblue;
+}
+h1{
+    font-family: Arial;
+    color: red;
+}
